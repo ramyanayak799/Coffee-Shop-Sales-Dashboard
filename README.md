@@ -25,3 +25,4 @@ Sales Performance by Weekdays – Displays order volume trends across the week.
 1️⃣ Download the Excel file 📥
 2️⃣ Explore the interactive filters (Month, Day, Category)
 3️⃣ Use insights for data-driven decision-making 📊
+![Image](https://github.com/user-attachments/assets/636ef1c1-75c1-4a96-a372-2669f493fef2)
